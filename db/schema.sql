@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS ReadThisTech_db;
+CREATE DATABASE ReadThisTech_db;

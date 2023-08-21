@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Absolutely! This separation really optimizes code organization and scalability.",
+    "user_id": 1,
+    "post_id": 1
+  },
+  {
+    "text": "I couldn't agree more. Having a clear distinction between these layers makes collaboration much easier too.",
+    "user_id": 2,
+    "post_id": 1
+  },
+  {
+    "text": "So true. It's important to understand that these are two sides of the security coin.",
+    "user_id": 3,
+    "post_id": 2
+  },
+  {
+    "text": "Yes, and mixing them up can lead to serious security vulnerabilities!",
+    "user_id": 1,
+    "post_id": 2
+  },
+  {
+    "text": "ORMs are a lifesaver. They really make handling databases more intuitive.",
+    "user_id": 2,
+    "post_id": 3
+  },
+  {
+    "text": "Totally! Plus, they help in reducing boilerplate code when dealing with databases.",
+    "user_id": 3,
+    "post_id": 3
+  }
+]
