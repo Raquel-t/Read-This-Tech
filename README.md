@@ -61,6 +61,10 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Mock-Up
 
+https://github.com/Raquel-t/Read-This-Tech/assets/130006996/c2ac2ee3-6166-450c-bc27-fc214f3de2d1
+
+
+
 ## Deployed-URL
 
 https://read-this-tech-264ad6b57d83.herokuapp.com
