@@ -1545,3 +1545,101 @@ form [type='radio'] {
     align-content: center;
   }
 }
+
+/* styling for the post handlebars */
+.post {
+  width: 80%;
+  margin: 40px auto;
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading for the post title */
+.post h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* Styling for the user and date details */
+.post p {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+/* Post content styling */
+.post div {
+  margin-top: 20px;
+  line-height: 1.5;
+  font-size: 1rem;
+  color: #444;
+}
+
+/* Comments heading */
+.post h3 {
+  margin-top: 30px;
+  font-size: 1.5rem;
+  color: #555;
+}
+
+/* Comments list styling */
+.post ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.post ul li {
+  padding: 10px 0;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+.post ul li:last-child {
+  border-bottom: none;
+}
+
+/* Comment user name and date styling */
+.post ul li strong {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Comments section styling */
+.comments-section {
+  margin-top: 30px;
+}
+
+.add-comment-form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Textarea styling for adding comments */
+.add-comment-form textarea {
+  width: 100%;
+  padding: 10px;
+  resize: vertical;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+/* Button styling */
+.btn {
+  cursor: pointer;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 0.9rem;
+}
+
+.btn-secondary {
+  background-color: #007bff;
+  color: #ffffff;
+  transition: background-color 0.3s;
+}
+
+.btn-secondary:hover {
+  background-color: #0056b3;
+}
