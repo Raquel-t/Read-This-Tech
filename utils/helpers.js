@@ -14,19 +14,4 @@ module.exports = {
     }
     return text;
   },
-
-  get_emoji: (mood) => {
-    switch (mood) {
-      case 'happy':
-        return `<span for="img" aria-label="happy">😊</span>`;
-      case 'sad':
-        return `<span for="img" aria-label="sad">😢</span>`;
-      case 'thoughtful':
-        return `<span for="img" aria-label="thinking">🤔</span>`;
-      case 'excited':
-        return `<span for="img" aria-label="excited">🥳</span>`;
-      default:
-        return `<span for="img" aria-label="neutral">😐</span>`;
-    }
-  },
 };
