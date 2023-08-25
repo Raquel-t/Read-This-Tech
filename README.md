@@ -55,7 +55,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 * [Installation](#installation)
 * [Deployed-URL](#deployed-url)
-* [Credits](#credits)
 * [Contributors](#contributors)
 * [Questions](#questions)
 * [Resources](#resources)
@@ -63,6 +62,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ## Mock-Up
 
 ## Deployed-URL
+
+https://read-this-tech-264ad6b57d83.herokuapp.com
 
 ## Installation
 The following necessary dependencies must be installed: [express-handlebars](https://www.npmjs.com/package/express-handlebars), [MySQL2](https://www.npmjs.com/package/mysql2), [Sequelize](https://www.npmjs.com/package/sequelize), [dotenv package](https://www.npmjs.com/package/dotenv), [bcrypt package](https://www.npmjs.com/package/bcrypt), [express-session](https://www.npmjs.com/package/express-session) & [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize).
@@ -74,6 +75,8 @@ The following necessary dependencies must be installed: [express-handlebars](htt
 * ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 * ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 * ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+* ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## Contributors
@@ -90,4 +93,7 @@ For any questions, please contact me at the following links:
 
 ## Resources
 
-## Credits
+* [A Step By Step Guide To Using Handlebars With Your Node js App](https://waelyasmina.medium.com/a-guide-into-using-handlebars-with-your-express-js-application-22b944443b65)
+* [Deploy with Heroku and MySQL](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)
+* [ikatyang emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* [Ileriayo's Markdown-badges](https://ileriayo.github.io/markdown-badges/)
