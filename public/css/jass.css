@@ -1643,3 +1643,7 @@ form [type='radio'] {
 .btn-secondary:hover {
   background-color: #0056b3;
 }
+
+footer {
+  text-align: center;
+}

@@ -17,8 +17,24 @@ header, .project:not(:last-child) {
   text-decoration: underline;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.tea-emoji {
+  display: inline-block;
+  animation: float 2s infinite;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure it covers the full viewport height */
+}
+
+.container {
+  flex: 1; /* Allow this element to grow and occupy the available space */
 }
